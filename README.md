@@ -1,1 +1,0 @@
-# mesto-ad-deploy
